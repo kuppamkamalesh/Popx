@@ -4,6 +4,8 @@ Welcome to the **PopX UI Project**, a sleek and responsive frontend interface de
 
 ---
 
+Hosted Link: https://popx-one-gules.vercel.app/
+
 ## 🚀 Features
 
 - **Home Screen**  
